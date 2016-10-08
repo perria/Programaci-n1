@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475885093 source:d:\perri.ailen\perri.ailen\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1475885093 d:\perri.ailen\perri.ailen\funciones.h
+
